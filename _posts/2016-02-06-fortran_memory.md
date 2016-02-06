@@ -2,6 +2,7 @@
 layout: post
 title:  "Scaling of memory allocation in Fortran 90"
 subtitle: "Comparing the methods used for allocating memory in F90"
+category: programming
 ---
 
 ## Introduction
