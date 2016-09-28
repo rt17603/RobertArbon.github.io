@@ -36,3 +36,4 @@ and voila, it worked:
     (py35) MD ➤ file toppar_water_ions_fixed_v2.str
     toppar_water_ions_fixed_v2.str: ASCII English text
 
+You can find info on Unicode and Python [here](http://nedbatchelder.com/text/unipain.html). Thanks to [Nikhil S](http://stackoverflow.com/users/142338/nikhil-s) and his [post](http://stackoverflow.com/questions/3264915/remove-non-ascii-characters-in-a-file) disucssing this problem on StackOverflow.
